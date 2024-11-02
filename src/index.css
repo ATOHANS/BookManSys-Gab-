@@ -1,0 +1,26 @@
+/* src/index.css */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa; /* Light gray background */
+  color: #343a40; /* Dark gray text */
+}
+
+h1, h2 {
+  color: #007bff; /* Primary color for headings */
+}
+
+ul {
+  list-style: none; /* Remove default list styles */
+}
+
+.container {
+  max-width: 800px; /* Limit the width of content */
+  margin: 0 auto; /* Center the container */
+  padding: 20px; /* Add some padding */
+}
